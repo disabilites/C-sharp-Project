@@ -1,0 +1,9 @@
+E:\C# Project\Sanke\Sanke\bin\Debug\Sanke.exe.config
+E:\C# Project\Sanke\Sanke\bin\Debug\Sanke.exe
+E:\C# Project\Sanke\Sanke\bin\Debug\Sanke.pdb
+E:\C# Project\Sanke\Sanke\obj\Debug\Sanke.csprojResolveAssemblyReference.cache
+E:\C# Project\Sanke\Sanke\obj\Debug\Sanke.Properties.Resources.resources
+E:\C# Project\Sanke\Sanke\obj\Debug\Sanke.csproj.GenerateResource.Cache
+E:\C# Project\Sanke\Sanke\obj\Debug\Sanke.csproj.CoreCompileInputs.cache
+E:\C# Project\Sanke\Sanke\obj\Debug\Sanke.exe
+E:\C# Project\Sanke\Sanke\obj\Debug\Sanke.pdb
