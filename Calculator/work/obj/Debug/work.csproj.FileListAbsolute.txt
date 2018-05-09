@@ -1,0 +1,10 @@
+E:\C# Project\work\work\bin\Debug\work.exe.config
+E:\C# Project\work\work\bin\Debug\work.exe
+E:\C# Project\work\work\bin\Debug\work.pdb
+E:\C# Project\work\work\obj\Debug\work.csprojResolveAssemblyReference.cache
+E:\C# Project\work\work\obj\Debug\work.Form1.resources
+E:\C# Project\work\work\obj\Debug\work.Properties.Resources.resources
+E:\C# Project\work\work\obj\Debug\work.csproj.GenerateResource.Cache
+E:\C# Project\work\work\obj\Debug\work.csproj.CoreCompileInputs.cache
+E:\C# Project\work\work\obj\Debug\work.exe
+E:\C# Project\work\work\obj\Debug\work.pdb
